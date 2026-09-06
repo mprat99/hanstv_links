@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.hanstv",
+      "sha256_cert_fingerprints": [
+        "54:C0:5A:03:5E:36:50:5D:2A:C2:99:48:AC:F1:B6:A4:3A:25:DF:BC:95:62:DE:1C:EB:91:44:3F:07:F1:3E:24"
+      ]
+    }
+  }
+]
